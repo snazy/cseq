@@ -1,0 +1,30 @@
+
+Caffinitas sequence generator and locks for Apache Cassandra
+Copyright (C) 2014 Robert Stupp, Koeln, Germany, robert-stupp.de
+
+
+This project uses
+
+
+Datastax Java Driver
+http://www.datastax.com/download#dl-datastax-drivers
+https://github.com/datastax/java-driver
+
+Simple logging facade for Java
+http://www.slf4j.org/
+
+
+The test module uses
+
+Cassandra Cluster Manager for tests
+https://github.com/pcmanus/ccm
+
+TestNG
+http://testng.org/
+
+Apache Log4J
+https://logging.apache.org/log4j/
+
+Test source from Datastax Java Driver
+https://github.com/datastax/java-driver
+
